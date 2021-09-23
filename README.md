@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, seja bem vindo ao meu GitHub 👋
 
-<!--
-**gaabrielgr/gaabrielgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Gabriel Rodrigues :computer:
 
-Here are some ideas to get you started:
+:books: **No momento, estou aprendendo  **PHP, JS, HTML** e **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:outbox_tray: **Objetivos:** Aprimorar minhas skills e ingressar no mercado de trabalho como Desenvolvedor Web :man_technologist:
+
+
+
+## Sobre mim
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-gomes-rodrigues/)
+
