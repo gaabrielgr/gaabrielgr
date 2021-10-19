@@ -2,9 +2,9 @@
 
 ### Gabriel Rodrigues :computer:
 
-:books: No momento, estou aprendendo  **PHP, JS, HTML** e **CSS**
+:books: No momento, estou aprendendo  **JAVA, HTML** e **CSS**
 
-:outbox_tray: **Objetivos:** Aprimorar minhas skills e ingressar no mercado de trabalho como Desenvolvedor Web :man_technologist:
+:outbox_tray: **Objetivos:** Aprimorar minhas skills e ingressar no mercado de trabalho como Desenvolvedor :man_technologist:
 
 
 
