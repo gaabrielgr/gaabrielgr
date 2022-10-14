@@ -2,9 +2,9 @@
 
 ### Gabriel Rodrigues :computer:
 
-:books: No momento, estou aprendendo  **JS, HTML** e **CSS**
+:books: No momento, estou estudando  **React** e **TS**
 
-:outbox_tray: **Objetivos:** Aprimorar minhas skills e ingressar no mercado de trabalho como Desenvolvedor :man_technologist:
+:outbox_tray: **Objetivos:** Seguir aprimorando  minhas skills :man_technologist:
 
 
 
