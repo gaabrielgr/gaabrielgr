@@ -2,7 +2,7 @@
 
 ### Gabriel Rodrigues :computer:
 
-:books: No momento, estou estudando  **ReactJS** e 
+:books: No momento, estou estudando  **ReactJS**
 
 :outbox_tray: **Objetivos:** Seguir aprimorando  minhas skills :man_technologist:
 
