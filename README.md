@@ -4,7 +4,7 @@
 
 :books: Desenvolvedor front *ReactJS*
 
-:outbox_tray: **Objetivos:** Tornar-se desenvolvedor full Stack :man_technologist:
+:outbox_tray: **Objetivos:** Tornar-se desenvolvedor Full Stack :man_technologist:
 
 
 
