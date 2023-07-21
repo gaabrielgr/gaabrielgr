@@ -2,9 +2,9 @@
 
 ### Gabriel Rodrigues :computer:
 
-:books: No momento, estou estudando  **ReactJS**
+:books: Desenvolvedor front *ReactJS*
 
-:outbox_tray: **Objetivos:** Seguir aprimorando  minhas skills :man_technologist:
+:outbox_tray: **Objetivos:** Tornar-se desenvolvedor full Stack :man_technologist:
 
 
 
