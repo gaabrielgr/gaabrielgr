@@ -2,7 +2,7 @@
 
 ### Gabriel Rodrigues :computer:
 
-:books: *D*esenvolvedor *F*ront
+:books: Desenvolvedor Front
 
 
 
