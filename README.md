@@ -1,8 +1,8 @@
-## Olá, seja bem vindo ao meu GitHub 👋
+## Olá, seja bem vindo 👋
 
 ### Gabriel Rodrigues :computer:
 
-:books: Desenvolvedor front *ReactJS*
+:books: *D*esenvolvedor *F*ront
 
 
 
